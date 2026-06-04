@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\events\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:events\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\service\\frauddetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:service\\frauddetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\events\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:events\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\service\\analytiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:service\\analytiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\service\\accountsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:service\\accountsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\events\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:events\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|c:\\users\\acer\\source\\repos\\nguy-n-th-thu-linh_1771020421\\tuan_3\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}|Tuan_3.csproj|solutionrelative:repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:31:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:33:41.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FraudDetectionService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Service\\FraudDetectionService.cs",
+              "RelativeDocumentMoniker": "Service\\FraudDetectionService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Service\\FraudDetectionService.cs",
+              "RelativeToolTip": "Service\\FraudDetectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:31:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Events\\RabbitMqEventBus.cs",
+              "RelativeDocumentMoniker": "Events\\RabbitMqEventBus.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Events\\RabbitMqEventBus.cs",
+              "RelativeToolTip": "Events\\RabbitMqEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:29:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalytiService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Service\\AnalytiService.cs",
+              "RelativeDocumentMoniker": "Service\\AnalytiService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Service\\AnalytiService.cs",
+              "RelativeToolTip": "Service\\AnalytiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:30:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Events\\IEventBus.cs",
+              "RelativeDocumentMoniker": "Events\\IEventBus.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Events\\IEventBus.cs",
+              "RelativeToolTip": "Events\\IEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:27:29.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Events\\EventBus.cs",
+              "RelativeDocumentMoniker": "Events\\EventBus.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Events\\EventBus.cs",
+              "RelativeToolTip": "Events\\EventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:28:57.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountSevice.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Service\\AccountSevice.cs",
+              "RelativeDocumentMoniker": "Service\\AccountSevice.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Service\\AccountSevice.cs",
+              "RelativeToolTip": "Service\\AccountSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:18:44.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Nguy-n-Th-Thu-Linh_1771020421\\Tuan_3\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Repository\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:17:48.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
