@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan_3", "Tuan_3.csproj", "{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64EDB3-5C5D-4503-BB91-9C498C6BEBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2834B99-4DCE-4F08-9C0C-F010DD8E0F6C}
+	EndGlobalSection
+EndGlobal
